@@ -15,8 +15,8 @@ instructor: ["Khaoula Ferchichi", "Michal Zulcinski"] # boxed, comma-separated l
 helper: ["TBC", "TBC"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["kferchichi@uni-bonn.de","m.zulcinski@leeds.ac.uk"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 # Optional variables
-collaborative_notes:  # https://pad.carpentries.org/2026-09-07-carpentries-online
-eventbrite:           # 1993807987362
+collaborative_notes:  https://pad.carpentries.org/2026-09-07-carpentries-online
+eventbrite:           1993807987362
 what3words:           # what3words (https://what3words.com) address of the workshop venue, without leading slashes e.g. "globe.lessening.computers"
 # DON'T CHANGE THIS
 layout: workshop
